@@ -1,9 +1,9 @@
 /****
     * HexGlass is a Tetris-like puzzle game.
     *
-    * Project homepage: http://hexglass.googlecode.com/
+    * Project homepage: https://github.com/michurin/hexglass
     *
-    * Copyright (C) 2010-2011 Alexey Michurin <a.michurin@gmail.com>
+    * Copyright (C) 2010-2020-2011 Alexey Michurin <a.michurin@gmail.com>
     *
     * This program is free software: you can redistribute it and/or modify
     * it under the terms of the GNU General Public License as published by

@@ -1,9 +1,9 @@
 /****
     * HexGlass is a Tetris-like puzzle game.
     *
-    * Project homepage: http://hexglass.googlecode.com/
+    * Project homepage: https://github.com/michurin/hexglass
     *
-    * Copyright (C) 2010-2011 Alexey Michurin <a.michurin@gmail.com>
+    * Copyright (C) 2010-2020-2011 Alexey Michurin <a.michurin@gmail.com>
     *
     * This program is free software: you can redistribute it and/or modify
     * it under the terms of the GNU General Public License as published by
@@ -38,7 +38,7 @@ Dialogs::about() {
     tr("About"),
         "<h3>" STR(HG_NAME) " " STR(HG_VERSION) "</h3>" +
 
-    tr( "<p>Copyright (c) 2010-2011 Alexey Michurin &lt;a.michurin@gmail.com&gt;</p>"
+    tr( "<p>Copyright (C) 2010-2020-2011 Alexey Michurin &lt;a.michurin@gmail.com&gt;</p>"
 
         "<p>Released under the terms of the"
         " <a href=\"http://www.gnu.org/licenses/\">GNU GPL v3</a></p>"
@@ -55,8 +55,8 @@ Dialogs::about() {
         " can no longer fall from the top.</p>"
 
         "<p>Project home page: "
-        "<a href=\"http://hexglass.googlecode.com/\">"
-        "http://hexglass.googlecode.com/</a></p>")
+        "<a href=\"https://github.com/michurin/hexglass\">"
+        "https://github.com/michurin/hexglass</a></p>")
     );
 }
 
